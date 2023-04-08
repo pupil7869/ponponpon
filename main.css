@@ -1,0 +1,63 @@
+html {
+    background-image: url(code.png);
+
+}
+
+.rtt {
+    color:rgb(244, 21, 21);
+    font-size: 50px;
+    border-radius: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid rgba(179, 255, 0, 0.984);
+    width: 100%;
+    height: 300px;
+    box-shadow: 10px 10px 10px rgb(rgb(131, 32, 224), rgb(47, 254, 47), rgb(51, 51, 160));
+}
+
+.pon {
+    color:rgb(175, 181, 229);
+    font-size: 50px;
+    background-color: #ff9100;
+    margin: 10px;
+    padding: 10px;
+    border: 2px;
+    border-radius: 60px;
+    box-shadow: 10px 10px 10px rgb(rgb(131, 32, 224), rgb(47, 254, 47), rgb(51, 51, 160));
+    width: 100%;
+    height: 250px;
+    background-color: rgb(16, 69, 129);
+}
+
+.zun {
+    font-size: 10px;
+    border:rgb(70, 246, 0);
+}
+
+.ronder {
+    font-size: 50px;
+    border: 15px solid rgb(63, 254, 5);
+    border-radius: 88px;
+    margin: 220px;
+    color: rgb(255, 255, 255);
+}
+
+.pon3 {
+    color: aliceblue;
+    font-size: 40px;
+    
+}
+
+.pon4 {
+    color:rgb(193, 107, 2);
+    font-size: 50px;
+    border: 100px;
+}
+
+.Egor {
+    color:rgb(255, 0, 0);
+    border-radius: 90px;
+    border: 88px;
+    margin: 480px;
+    background-color: aquamarine;
+}
